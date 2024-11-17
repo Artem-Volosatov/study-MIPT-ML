@@ -1,4 +1,3 @@
-Homework for course of Mashine learning
+Homework for the Machine Learning Course
 
-MIPT online-master degree
-fall 2024
+MIPT Online Master's Program, Fall 2024
